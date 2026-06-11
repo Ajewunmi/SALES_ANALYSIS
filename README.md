@@ -26,7 +26,7 @@ This project delivers an interactive dashboard designed to help stakeholders:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Sales%20Analysis%20DB.png)
+![Dashboard Screenshot](SALES%20ANALYSIS%20DB.png)
 
 ---
 
